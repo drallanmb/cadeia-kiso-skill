@@ -65,5 +65,4 @@ Depois de instalada, é só pedir ao Claude algo como: *"monta o plano de ação
 ## Notas
 
 - As **etapas 12 e 13** (Banco de Ideias e Calendário) foram reconstruídas a partir da lógica da cadeia; ajuste-as se você tiver uma versão-fonte própria.
-- - Metodologia proprietária **Cadeia Kiso**. Sem arquivo de licença, valem os direitos reservados por padrão — adicione uma licença se quiser abrir o uso.
-  - 
+- Metodologia proprietária **Cadeia Kiso**. Sem arquivo de licença, valem os direitos reservados por padrão — adicione uma licença se quiser abrir o uso.
