@@ -1,4 +1,4 @@
-# Cadeia Kiso — Skill
+# Skill "cadeia-kiso"
 
 Skill para o Claude (Cowork / Claude Code) que conduz, por **entrevista guiada etapa a etapa**, a construção de um plano de ação de estratégia de marca e conteúdo — do diagnóstico estratégico ao calendário editorial executável.
 
